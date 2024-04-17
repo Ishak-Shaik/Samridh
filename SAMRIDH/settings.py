@@ -148,12 +148,12 @@ MEDIA_URL = '/media/'
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_HOST_USER = 'xa17018@gmail.com'
-EMAIL_HOST_PASSWORD = 'ihml yips fsac wlzj'
+EMAIL_HOST_PASSWORD =  #App Password
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 
 
 ## Payment gateway details
 
-KEY = 'rzp_test_ydZtZh5t0Aspaj'
-SECRET = 'XagnaHvHOXsjOeURr53hdUzg'
+KEY = #razorpay key
+SECRET = #razorpay secret key
